@@ -41,22 +41,22 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"assets/images/DesktopWallpaper/d1.avif",
-			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
-			"assets/images/DesktopWallpaper/d4.avif",
-			"assets/images/DesktopWallpaper/d5.avif",
-			"assets/images/DesktopWallpaper/d6.avif",
+			"assets/images/DesktopWallpaper/desk1.avif",
+			"assets/images/DesktopWallpaper/desk2.avif",
+			"assets/images/DesktopWallpaper/desk3.avif",
+			"assets/images/DesktopWallpaper/desk4.avif",
+			"assets/images/DesktopWallpaper/desk5.avif",
+			"assets/images/DesktopWallpaper/desk6.avif",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
-			"assets/images/MobileWallpaper/m4.avif",
-			"assets/images/MobileWallpaper/m5.avif",
-			"assets/images/MobileWallpaper/m6.avif",
+			"assets/images/MobileWallpaper/mobile1.avif",
+			"assets/images/MobileWallpaper/moblie2.avif",
+			"assets/images/MobileWallpaper/moblie3.avif",
+			"assets/images/MobileWallpaper/moblie4.avif",
+			"assets/images/MobileWallpaper/moblie5.avif",
+			"assets/images/MobileWallpaper/moblie6.avif",
 		],
 	},
 	// 横幅壁纸和全屏壁纸共享配置
@@ -70,17 +70,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Stay in the Miyuki.",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"坐而言不如起而行。",
+				"等风来，不如追风去。",
+				"总之岁月漫长，然而值得等待。",
+				"哪里会有人喜欢孤独，不过是不喜欢失望。",
+				"一瞬间心如刀绞，一转头如释重负。",
+				"总会有人，在某个风景正好的季节来到你身边。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
