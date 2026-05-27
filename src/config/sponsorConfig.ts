@@ -32,32 +32,32 @@ export const sponsorConfig: SponsorConfig = {
 			enabled: true,
 		},
 		{
-			name: "微信",
-			icon: "fa7-brands:weixin",
-			qrCode: "/assets/images/sponsor/wechat.png",
+			name: "qq",
+			icon: "fa7-brands:qq",
+			qrCode: "/assets/images/sponsor/qq.png",
 			link: "",
-			description: "使用 微信 扫码赞助",
+			description: "扫码添加 qq 联系赞助我",
 			enabled: true,
 		},
-		{
+		/*{
 			name: "ko-fi",
 			icon: "simple-icons:kofi",
 			qrCode: "",
 			link: "https://ko-fi.com/cuteleaf",
 			description: "Buy a Coffee for Firefly",
 			enabled: true,
-		},
-		{
+		},*/
+		/*{
 			name: "爱发电",
 			icon: "simple-icons:afdian",
 			qrCode: "",
 			link: "https://ifdian.net/a/cuteleaf",
 			description: "通过 爱发电 进行赞助",
 			enabled: true,
-		},
+		},*/
 	],
 
-	// 赞助者列表（可选）
+	/*// 赞助者列表（可选）
 	sponsors: [
 		// 示例：已实名赞助者
 		{
@@ -72,5 +72,5 @@ export const sponsorConfig: SponsorConfig = {
 			amount: "¥20",
 			date: "2025-10-01",
 		},
-	],
+	],*/
 };
