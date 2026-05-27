@@ -23,10 +23,10 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
-		title: "Firefly Docs",
-		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
-		desc: "Firefly主题模板文档",
-		siteurl: "https://docs-firefly.cuteleaf.cn",
+		title: "世纪大道",
+		imgurl: "https://avatars.githubusercontent.com/u/277464233?v=4",
+		desc: "你在世纪大道东门。",
+		siteurl: "https://blog.0pt.icu",
 		tags: ["Blog"],
 		weight: 10,
 		enabled: true,
