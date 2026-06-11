@@ -14,7 +14,7 @@ slug: how-to-deploy-QQBot
 ## 1.准备工作
 ### 1.1 下载Astrbot
 打开 <https://docs.astrbot.app>，点击左侧的“启动器一键部署”，下翻找到github仓库，进入。
-<img src="/assets/images/md1_1.png" alt="Logo" width="150">
+![1](/assets/images/md1_1.png)
 
 下载最新版的AstrBotLauncher.zip文件，解压放到自己喜欢的地方。
 
@@ -33,14 +33,12 @@ slug: how-to-deploy-QQBot
 再打开AstrBot文件夹里的**launcher_astrbot_en.bat**，然后等待这两个安装完成。
 
 安装完成之后，关闭Napcat的程序，再在NapCat文件夹里找到**NapCat.44498.Shell**这个文件夹，打开，运行**napcat.bat**脚本。
-
-<img src="/assets/images/md1_2.png" alt="Logo" width="150">
+![2](/assets/images/md1_2.png)
 
 Ctrl点击图中**127**开头的网址，进入登陆界面，第一次登陆账号密码在日志里，进去后会让你更改。
 
 再Ctrl点击Napcat脚本里的**127**开头的网址，进入NapCat网站，登录你想要变成bot的qq。
-
-<img src="/assets/images/md1_3.png" alt="Logo" width="150">
+![3](/assets/images/md1_3.png)
 
 点击左侧的网络配置，左上角**新建**，点击**WebSocket服务器**，把所有按钮都打开，将**Host**改为0.0.0.0（局域网访问），随便取个名字，删除token（这样方便点）。
 
