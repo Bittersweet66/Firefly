@@ -3,7 +3,7 @@
 title: 基于AstrBot和Napcat的QQBot开发
 published: 2026-06-11
 description: 这是关于用astrbot开发一个属于你的qqbot的一篇介绍。
-image: /assets/images/cover.avif
+image: https://blog.687901.xyz/_astro/cover.B8L2oCy__ZbSR8a.webp
 tags: [Napcat, AstrBot，开发，Agent]
 category: bot开发
 author: Nomain
