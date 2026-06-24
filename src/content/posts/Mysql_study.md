@@ -1,3 +1,15 @@
+---
+
+title: MySQL数据库学习日记
+published: 2026-06-24
+description: 谨此记录学习SQL的过程。
+tags: [Java, SQL，开发，MySQL]
+category: SQL
+author: Nomain
+draft: false
+slug: learning-sql
+
+---
 # Mysql数据库学习日记-基础篇
 ## day1
 
